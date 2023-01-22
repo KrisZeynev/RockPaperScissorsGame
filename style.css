@@ -1,6 +1,7 @@
-@import url('https://fonts.cdnfonts.com/css/sans-comic-sans');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 *{
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Roboto', cursive;
 }
 body{    
     background-color: #06467a;
